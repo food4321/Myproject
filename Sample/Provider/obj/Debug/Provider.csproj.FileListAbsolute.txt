@@ -1,0 +1,4 @@
+c:\users\enyoung\documents\visual studio 2012\Projects\Sample\Provider\bin\Debug\Provider.dll
+c:\users\enyoung\documents\visual studio 2012\Projects\Sample\Provider\bin\Debug\Provider.pdb
+c:\users\enyoung\documents\visual studio 2012\Projects\Sample\Provider\obj\Debug\Provider.dll
+c:\users\enyoung\documents\visual studio 2012\Projects\Sample\Provider\obj\Debug\Provider.pdb
