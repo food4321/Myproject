@@ -1,5 +1,0 @@
-C:\Users\EnYoung\Desktop\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
-C:\Users\EnYoung\Desktop\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
-C:\Users\EnYoung\Desktop\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
-C:\Users\EnYoung\Desktop\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
-C:\Users\EnYoung\Desktop\MouseKeyboardLib2008\MouseKeyboardLibrary\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
